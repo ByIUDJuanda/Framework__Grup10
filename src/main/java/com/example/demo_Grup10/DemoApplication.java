@@ -4,11 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoGrup10Application {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoGrup10Application.class, args);
-		System.out.println("App Iniciada correctamente...");
+		SpringApplication.run(DemoApplication.class, args);
+		System.out.println(" App iniciada... ");
 	}
 
 }
